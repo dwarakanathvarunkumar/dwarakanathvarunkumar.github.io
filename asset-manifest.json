@@ -1,23 +1,37 @@
 {
   "files": {
-    "main.css": "/dwarakanathvarunkumar.github.io/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/dwarakanathvarunkumar.github.io/static/js/main.7fee1c45.chunk.js",
-    "main.js.map": "/dwarakanathvarunkumar.github.io/static/js/main.7fee1c45.chunk.js.map",
-    "runtime-main.js": "/dwarakanathvarunkumar.github.io/static/js/runtime-main.f6f2f698.js",
-    "runtime-main.js.map": "/dwarakanathvarunkumar.github.io/static/js/runtime-main.f6f2f698.js.map",
-    "static/js/2.f04a382a.chunk.js": "/dwarakanathvarunkumar.github.io/static/js/2.f04a382a.chunk.js",
-    "static/js/2.f04a382a.chunk.js.map": "/dwarakanathvarunkumar.github.io/static/js/2.f04a382a.chunk.js.map",
-    "static/js/3.c8c33c27.chunk.js": "/dwarakanathvarunkumar.github.io/static/js/3.c8c33c27.chunk.js",
-    "static/js/3.c8c33c27.chunk.js.map": "/dwarakanathvarunkumar.github.io/static/js/3.c8c33c27.chunk.js.map",
+    "main.css": "/dwarakanathvarunkumar.github.io/static/css/main.d3a74385.chunk.css",
+    "main.js": "/dwarakanathvarunkumar.github.io/static/js/main.5164282c.chunk.js",
+    "main.js.map": "/dwarakanathvarunkumar.github.io/static/js/main.5164282c.chunk.js.map",
+    "runtime-main.js": "/dwarakanathvarunkumar.github.io/static/js/runtime-main.b697af20.js",
+    "runtime-main.js.map": "/dwarakanathvarunkumar.github.io/static/js/runtime-main.b697af20.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/dwarakanathvarunkumar.github.io/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.b84a5276.chunk.js": "/dwarakanathvarunkumar.github.io/static/js/2.b84a5276.chunk.js",
+    "static/js/2.b84a5276.chunk.js.map": "/dwarakanathvarunkumar.github.io/static/js/2.b84a5276.chunk.js.map",
+    "static/js/3.66f6d25c.chunk.js": "/dwarakanathvarunkumar.github.io/static/js/3.66f6d25c.chunk.js",
+    "static/js/3.66f6d25c.chunk.js.map": "/dwarakanathvarunkumar.github.io/static/js/3.66f6d25c.chunk.js.map",
     "index.html": "/dwarakanathvarunkumar.github.io/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/dwarakanathvarunkumar.github.io/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.f04a382a.chunk.js.LICENSE.txt": "/dwarakanathvarunkumar.github.io/static/js/2.f04a382a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/dwarakanathvarunkumar.github.io/static/media/logo.6ce24c58.svg"
+    "static/css/2.4c97ca4f.chunk.css.map": "/dwarakanathvarunkumar.github.io/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.d3a74385.chunk.css.map": "/dwarakanathvarunkumar.github.io/static/css/main.d3a74385.chunk.css.map",
+    "static/js/2.b84a5276.chunk.js.LICENSE.txt": "/dwarakanathvarunkumar.github.io/static/js/2.b84a5276.chunk.js.LICENSE.txt",
+    "static/media/Dwaraka_Resume_IoT.cc365b69.pdf": "/dwarakanathvarunkumar.github.io/static/media/Dwaraka_Resume_IoT.cc365b69.pdf",
+    "static/media/about.aee0f771.png": "/dwarakanathvarunkumar.github.io/static/media/about.aee0f771.png",
+    "static/media/avatar.5852f40f.svg": "/dwarakanathvarunkumar.github.io/static/media/avatar.5852f40f.svg",
+    "static/media/codeEditor.ba945879.png": "/dwarakanathvarunkumar.github.io/static/media/codeEditor.ba945879.png",
+    "static/media/dk_logo.6155ae29.png": "/dwarakanathvarunkumar.github.io/static/media/dk_logo.6155ae29.png",
+    "static/media/eeg.2304f467.gif": "/dwarakanathvarunkumar.github.io/static/media/eeg.2304f467.gif",
+    "static/media/emotion.e92e314a.jpeg": "/dwarakanathvarunkumar.github.io/static/media/emotion.e92e314a.jpeg",
+    "static/media/style.css": "/dwarakanathvarunkumar.github.io/static/media/pre.d4812f51.svg",
+    "static/media/home-main.541f8179.svg": "/dwarakanathvarunkumar.github.io/static/media/home-main.541f8179.svg",
+    "static/media/leaf.4c15d6eb.png": "/dwarakanathvarunkumar.github.io/static/media/leaf.4c15d6eb.png",
+    "static/media/plant.c9d382ae.jpeg": "/dwarakanathvarunkumar.github.io/static/media/plant.c9d382ae.jpeg",
+    "static/media/suicide.b72f1f9f.png": "/dwarakanathvarunkumar.github.io/static/media/suicide.b72f1f9f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f6f2f698.js",
-    "static/js/2.f04a382a.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.7fee1c45.chunk.js"
+    "static/js/runtime-main.b697af20.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.b84a5276.chunk.js",
+    "static/css/main.d3a74385.chunk.css",
+    "static/js/main.5164282c.chunk.js"
   ]
 }
