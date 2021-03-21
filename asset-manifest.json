@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/dwarakanathvarunkumar/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/dwarakanathvarunkumar/static/js/main.7fee1c45.chunk.js",
-    "main.js.map": "/dwarakanathvarunkumar/static/js/main.7fee1c45.chunk.js.map",
-    "runtime-main.js": "/dwarakanathvarunkumar/static/js/runtime-main.4956fd31.js",
-    "runtime-main.js.map": "/dwarakanathvarunkumar/static/js/runtime-main.4956fd31.js.map",
-    "static/js/2.f04a382a.chunk.js": "/dwarakanathvarunkumar/static/js/2.f04a382a.chunk.js",
-    "static/js/2.f04a382a.chunk.js.map": "/dwarakanathvarunkumar/static/js/2.f04a382a.chunk.js.map",
-    "static/js/3.c8c33c27.chunk.js": "/dwarakanathvarunkumar/static/js/3.c8c33c27.chunk.js",
-    "static/js/3.c8c33c27.chunk.js.map": "/dwarakanathvarunkumar/static/js/3.c8c33c27.chunk.js.map",
-    "index.html": "/dwarakanathvarunkumar/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/dwarakanathvarunkumar/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.f04a382a.chunk.js.LICENSE.txt": "/dwarakanathvarunkumar/static/js/2.f04a382a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/dwarakanathvarunkumar/static/media/logo.6ce24c58.svg"
+    "main.css": "/dwarakanathvarunkumar.github.io/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/dwarakanathvarunkumar.github.io/static/js/main.7fee1c45.chunk.js",
+    "main.js.map": "/dwarakanathvarunkumar.github.io/static/js/main.7fee1c45.chunk.js.map",
+    "runtime-main.js": "/dwarakanathvarunkumar.github.io/static/js/runtime-main.f6f2f698.js",
+    "runtime-main.js.map": "/dwarakanathvarunkumar.github.io/static/js/runtime-main.f6f2f698.js.map",
+    "static/js/2.f04a382a.chunk.js": "/dwarakanathvarunkumar.github.io/static/js/2.f04a382a.chunk.js",
+    "static/js/2.f04a382a.chunk.js.map": "/dwarakanathvarunkumar.github.io/static/js/2.f04a382a.chunk.js.map",
+    "static/js/3.c8c33c27.chunk.js": "/dwarakanathvarunkumar.github.io/static/js/3.c8c33c27.chunk.js",
+    "static/js/3.c8c33c27.chunk.js.map": "/dwarakanathvarunkumar.github.io/static/js/3.c8c33c27.chunk.js.map",
+    "index.html": "/dwarakanathvarunkumar.github.io/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/dwarakanathvarunkumar.github.io/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.f04a382a.chunk.js.LICENSE.txt": "/dwarakanathvarunkumar.github.io/static/js/2.f04a382a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dwarakanathvarunkumar.github.io/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4956fd31.js",
+    "static/js/runtime-main.f6f2f698.js",
     "static/js/2.f04a382a.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.7fee1c45.chunk.js"
